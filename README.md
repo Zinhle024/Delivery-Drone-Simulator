@@ -6,9 +6,18 @@ A Java-based simulation of delivery drones navigating a grid world with obstacle
 
 This project helps us practice Java fundamentals, JUnit testing, GitHub collaboration, and project planning.
 
-## 👥 Team
+## 👥 Team - - Zinhle
 
-#Project SetU - Zinhle
+## ⚙️ Features
+
+- 2D Grid World
+- Drone movement & direction control
+- Obstacles and charging stations
+- Command Parser
+- Battery logic
+- JUnit Testing Suite
+
+#Project SetUp 
 
 /drone-delivery-simulator
 │
